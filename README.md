@@ -16,6 +16,7 @@
 3. Renombrar el archivo a update.zip
 4. ir a update y elegir archivo
 5. [Video que explica como flashear y bloquear el bootloader](https://www.youtube.com/watch?v=99PAnMy-9-Y)
+6. [De esta liga descargas el firmware oficial](https://mifirm.net/model/raphael.ttt#eu)
 
 
 
