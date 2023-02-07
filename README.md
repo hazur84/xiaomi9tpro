@@ -15,8 +15,8 @@
 2. Con el FileManager mover al directorio raiz del telefono.
 3. Renombrar el archivo a update.zip
 4. ir a update y elegir archivo
-5. 
+5. [Video que explica como flashear y bloquear el bootloader](https://www.youtube.com/watch?v=99PAnMy-9-Y)
 
 
-3. 
+
 
