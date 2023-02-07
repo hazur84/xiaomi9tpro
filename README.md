@@ -12,6 +12,7 @@
 1. [Downgrade en Xiaomi: Vuelve a una versión anterior de MIUI](https://www.movilzona.es/tutoriales/miui/devolver-xiaomi-version-miui/)
 
 [How to Downgrade the update?](https://www.rmupdate.com/2022/08/19/how-to-roll-back-miui-13-to-miui-12-5-downgrade/#:~:text=Using%20File%20Manager.,click%20on%20the%20MIUI%20version)
+
 For downgrading first thing you have to do is, you have to download the zip file or ROM of the MIUI 12.5 based on Android 12 of your region from an unknown source. After downloading, you can follow the below steps:
 
 First of all, Change the file name to update.zip. Using File Manager.
